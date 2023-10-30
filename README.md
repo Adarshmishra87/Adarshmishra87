@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adarshmishra
-- 🌱 I’m currently Learning Java, Full Stack-Development, Computer Science, Algorithms, one course at a time.
+- 🌱 I’m currently Learning Full Stack-Development.
 - 🏎️ “So many books, so little time.”
  
 
