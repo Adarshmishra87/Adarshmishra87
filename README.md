@@ -8,4 +8,4 @@
 
 🔭 I’m currently working on enhancing my skills in web development.
 
-⚡ Fun fact: Besides coding and racing, I also find joy in playing guitar and exploring new music.
+⚡ Fun fact: Besides coding and racing, I also find joy in playing PC Games and exploring new Joy as COD.
