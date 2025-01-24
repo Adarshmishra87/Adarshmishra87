@@ -1,20 +1,3 @@
-# Hi there 👋  
-I'm **Adarsh Mishra**, a **Full Stack Developer** passionate about building web applications.
-
-### 🌱 Currently Learning:
-- Full Stack Development (React, Node.js, MongoDB)
-
-### 🚗 Interests:
-- Racing
-- Music
-- PC Gaming (Call of Duty)
-
-### 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adarsh-mishra/)
-
----
-
-## 💻 Skills:
-- **Front-End**: HTML, CSS, JavaScript, React
-- **Back-End**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, Visual Studio Code, Docker
+<p align="center">
+  <img width="1000" src="https://github.com/yetone/yetone/assets/1206493/20ebd0ac-3e85-432a-a3ac-c12319c7db83" />
+</p>
