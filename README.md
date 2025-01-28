@@ -49,16 +49,3 @@ A tool to crop images by selecting custom coordinates or using predefined ratios
 🔧 **Tech Stack**: Python, OpenCV  
 
 ---
-
-## 💬 Let’s Connect
-
-I love collaborating on open-source projects and discussing new tech trends! Feel free to reach out to me:
-
-- 📬 **Email**: adarshmishra19711@gmail.com
-- 🦸‍♂️ **LinkedIn**: [Adarsh Mishra](https://www.linkedin.com/in/adarsh-mishra-4b5792319/)
-
----
-
-Thanks for visiting my GitHub profile! 🚀
-
----
