@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 - 🌍 **Location**: UP, India
 - 👨‍💻 **Currently working on**: Building full-stack applications and exploring AI/ML technologies.
-- 🌱 **Learning**: I’m currently learning **AI/ML** and **full-stack development**.
-
 ---
 
 ## 🛠️ Technologies & Tools
